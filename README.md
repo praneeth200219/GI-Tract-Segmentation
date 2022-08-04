@@ -1,5 +1,5 @@
 # GI-Tract-Segmentation
-This is the official implementation of our paper titled: Medical Image Segmentation using LeViT-UNet++: A Case Study on GI Tract Data. 
+This is the official implementation of our paper titled: Medical Image Segmentation using LeViT-UNet++: A Case Study on GI Tract Data, submitted to review at the **2022 16th International Conference on Advanced Computing and Analytics (ACOMPA)** 
 
 ## Authors:
 Praneeth Nemani, Satyanarayana Vollala
